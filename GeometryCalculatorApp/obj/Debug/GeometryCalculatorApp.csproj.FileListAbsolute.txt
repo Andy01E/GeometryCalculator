@@ -1,0 +1,6 @@
+c:\users\andreas\documents\visual studio 2015\Projects\GeometryCalculatorApp\GeometryCalculatorApp\bin\Debug\GeometryCalculatorApp.exe.config
+c:\users\andreas\documents\visual studio 2015\Projects\GeometryCalculatorApp\GeometryCalculatorApp\bin\Debug\GeometryCalculatorApp.exe
+c:\users\andreas\documents\visual studio 2015\Projects\GeometryCalculatorApp\GeometryCalculatorApp\bin\Debug\GeometryCalculatorApp.pdb
+c:\users\andreas\documents\visual studio 2015\Projects\GeometryCalculatorApp\GeometryCalculatorApp\obj\Debug\GeometryCalculatorApp.csprojResolveAssemblyReference.cache
+c:\users\andreas\documents\visual studio 2015\Projects\GeometryCalculatorApp\GeometryCalculatorApp\obj\Debug\GeometryCalculatorApp.exe
+c:\users\andreas\documents\visual studio 2015\Projects\GeometryCalculatorApp\GeometryCalculatorApp\obj\Debug\GeometryCalculatorApp.pdb
