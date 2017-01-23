@@ -16,6 +16,7 @@ namespace GeometryCalculatorApp
 
                 Console.Out.WriteLine("Geometry Calculator App");
                 Console.Out.WriteLine("1. Area of cylinder \n2. Volume of cylinder \n3. Area of cube \n4. Volume of cube\n5. Area of pyramid \n6. Volume of pyramid \nx to exit");
+
                 String answer = Console.In.ReadLine();
 
                 if (answer == "x")
